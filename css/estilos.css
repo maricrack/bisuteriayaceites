@@ -26,7 +26,7 @@
 .grid div
 {
     border: 1px solid thistle;
-    background-image: linear-gradient(to left, rgb(85, 35, 44) , rgb(49, 21, 38));
+    background-image: linear-gradient(to left, rgb(13, 78, 27) , rgb(8, 32, 37));
     
     margin-right: 15px;
     margin-left: 15px;
@@ -51,7 +51,7 @@
 }
 .aside
 {
-    background-image: linear-gradient(to left, rgb(85, 35, 44) , rgb(49, 21, 38));
+    background-image: linear-gradient(to left, rgb(49, 15, 46) , rgb(224, 12, 243));
     grid-area: publicidad;
     color: white;
 }
@@ -162,6 +162,7 @@
 }
 .card__body
 {
+    transform: translate(5px, 20px);
     margin-top: 20px;
     margin-bottom: 20px;
 }
