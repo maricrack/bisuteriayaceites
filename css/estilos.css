@@ -198,7 +198,7 @@
         }
         .responsive__header
         {
-            background-image: linear-gradient(to left, rgb(131, 158, 31) , rgb(30, 18, 199));
+            background-image: linear-gradient(to left, rgb(197, 201, 185) , rgb(1, 1, 10));
             grid-area: encabezado;
             display:inline-block;
             justify-content: space-between;
