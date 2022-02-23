@@ -13,6 +13,8 @@
 .header__titulo
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30 px;
+    color: aquamarine;
 }
 .grid
 {
@@ -51,7 +53,7 @@
 }
 .aside
 {
-    background-image: linear-gradient(to left, rgb(49, 15, 46) , rgb(224, 12, 243));
+    background-image: linear-gradient(to left, rgb(211, 155, 35) , rgb(189, 15, 15));
     grid-area: publicidad;
     color: white;
 }
